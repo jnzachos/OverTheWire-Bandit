@@ -8,7 +8,7 @@ bandit3@bandit:~/inhere$ ls
 
 ```
 
-We find the `inhere` directory, enter it using `cd`, but when we run `ls` again, nothing appears. What is going on?!
+We find the `inhere` directory and enter it using `cd`, but when we run `ls` again, nothing appears. What is going on?!
 
 The answer is simple. The files inside this directory are hidden. All we have to do is run `ls -a` (list all). This will show all the files in the directory, including the hidden ones.
 
