@@ -1,7 +1,6 @@
 # Bandit Level 6 → 7
 
 ```bash
-bandit6@bandit:~$ ls
 bandit6@bandit:~$ ls -la
 total 20
 drwxr-xr-x   2 root root 4096 Apr  3 15:17 .
