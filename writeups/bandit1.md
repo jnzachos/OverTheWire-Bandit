@@ -20,8 +20,9 @@ The password you are looking for is: ...
 Wait... what does [directory](https://hpc.nmsu.edu/onboarding/linux/files-folders/) mean?
 
 ---
+In order to connect to `bandit1`, we need to disconnect from `bandit0`. To do that, simply use `CTRL + D`. [Why did that work?](https://unix.stackexchange.com/questions/110240/why-does-ctrl-d-eof-exit-the-shell)
 
-By using the `ssh` command we learned in the last level and simply changing the user to `bandit1`, we can pass this level!
+Now, by using the `ssh` command we learned in the last level and simply changing the user to `bandit1`, we can pass this level!
 
 - Reminder: `ssh <user>@<target> -p <port number>`
 - Note: If you want to learn more about the commands we used, you can use the `man` command. If you want to learn what `man` does, use the `man man` command.
