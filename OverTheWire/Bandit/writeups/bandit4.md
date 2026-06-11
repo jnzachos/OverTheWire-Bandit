@@ -29,6 +29,8 @@ bandit3@bandit:~/inhere$ ls -a
 .  ..  ...Hiding-From-You
 ```
 
+Then we print the password
+
 ```bash
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You
 ...
