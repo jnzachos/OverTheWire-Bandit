@@ -20,4 +20,3 @@ bandit1@bandit:~$ cat ./-
 
 This tells `cat` to look for an actual file in our current directory and print it, by giving it a path instead of just a symbol.
 
-That's level 2 done!
