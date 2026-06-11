@@ -1,4 +1,4 @@
-# Bandit Level 1
+# Bandit Level 0 → 1
 
 Now that we are user `bandit0`, we need to find the password for `bandit1`.
 
