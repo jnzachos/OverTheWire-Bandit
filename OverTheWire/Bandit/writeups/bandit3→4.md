@@ -1,4 +1,4 @@
-# Bandit Level 4
+# Bandit Level 3 → 4
 
 ```bash
 bandit3@bandit:~$ ls
