@@ -1,4 +1,4 @@
-# OverTheWire-Bandit by jnzachos
+# OverTheWire Bandit
 OverTheWire Bandit walkthrough writeups to help beginners learn terminal and Linux fundamentals.
 
 ---
