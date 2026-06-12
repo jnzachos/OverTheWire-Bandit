@@ -1,6 +1,6 @@
 # Bandit Level 8→9
 
-We know that the password for the next level is stored in the file data.txt and is the only line of text that occurs only once.
+We know that the password for the next level is stored in the file `data.txt` and is the only line of text that occurs only once.
 
 ```bash
 bandit8@bandit:~$ ls
