@@ -4,7 +4,7 @@ The First Step is a repository targeted towards beginners, containing writeups a
 
 <p align="center">
 
-<img width="400" height="300" alt="thefirststeplogo" src="https://github.com/user-attachments/assets/3fe85da6-89fa-48aa-a2ed-fcdb3de0296d" />
+<img width="512" height="382" alt="bestnewlogo" src="https://github.com/user-attachments/assets/cc3f0401-d8a0-4bd9-bebd-c19f8d85dfd0" />
 
 </p>
 
