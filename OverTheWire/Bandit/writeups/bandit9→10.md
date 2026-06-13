@@ -34,4 +34,4 @@ Breakdown:
 - `strings`  looks through a file and prints any readable text it finds
 - `|` pipe, gives the output as input to the next command
 
-Basically we find the human-readable text using `strings`, then give it as input to `grep` to search for '=' and `grep` then prints all the lines that have it in them. One of these lines has the password.
+Basically we find the human-readable text using `strings`, then give it as input to `grep` to search for '=' and `grep` prints all the lines that have it in them. One of these lines has the password.
