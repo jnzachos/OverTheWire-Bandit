@@ -33,6 +33,5 @@ zX]%=
 Breakdown:
 - `strings`  looks through a file and prints any readable text it finds
 - `|` pipe, gives the output as input to the next command
-- `grep` searches through text and prints only the lines that match a pattern you give it
 
 Basically we find the human-readable text using `strings`, then give it as input to `grep` to search for '=' and `grep` then prints all the lines that have it in them. One of these lines has the password.
